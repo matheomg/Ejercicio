@@ -2,3 +2,6 @@
 
 Este es un ejercicio que hemos hecho para crear un repositorio utilizando **Visual Studio Code**
 
+Las ciudades más lindas son:
+
+- [Guayaquil](Guayaquil.md)
